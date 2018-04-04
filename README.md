@@ -1,4 +1,6 @@
 # Upload de imagens PHP
-Sistema de upload de imagens utilizando somente php, para utilizar, copie os diretórios para seu servidor local,
+Picture upload system using php
+# Usage
+Para utilizar, copie os diretórios para seu servidor local,
 acesse o projeto a partir de seu navegador exemplo http://localhost/upload, e o projeto ja estará funcionando,o 
-próximo passo é fazer alguns uploads de imagens e posteriormentevizualizar elas.
+próximo passo é fazer alguns uploads de imagens e posteriormente vizualizar.
